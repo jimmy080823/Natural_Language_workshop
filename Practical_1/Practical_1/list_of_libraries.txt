@@ -1,0 +1,12 @@
+scikit-learn
+torch
+torchtext
+nltk
+pandas
+matplotlib
+seaborn
+gensim
+tqdm
+wordcloud
+lightgbm
+spacy
